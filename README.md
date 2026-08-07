@@ -2,7 +2,7 @@
 
 I'm a **Software Engineering student** and aspiring **Full-stack Developer** based in Ho Chi Minh City, Vietnam.
 
-I enjoy building practical web applications and working across both frontend and backend development. My current focus is on developing scalable full-stack applications using **React, Spring Boot, Express.js, and PostgreSQL**.
+I enjoy building web applications and working across both frontend and backend development. My current focus is on developing full-stack applications using **React, Spring Boot, Express.js, and PostgreSQL**.
 
 ##  Tech Stack
 
@@ -30,10 +30,24 @@ Key features include:
 
 **Tech Stack:** React · Vite · Express.js · PostgreSQL · Supabase · JavaScript
 
-##  Currently
+### Customer Relationship Management System
 
+A full-stack CRM application developed as part of a 7-member Scrum team, focusing on customer management, user administration, authentication, and role-based access control.
+
+Key contributions:
+
+* Developed customer management features across the Spring Boot backend and React frontend, including customer search, profile updates, activation, routing, and API integration.
+Implemented user update workflows with input validation and corresponding frontend support.
+Extended the authorization system by introducing the STAFF role and updating database constraints and user permissions.
+Integrated an AI chatbot with backend services and the application interface.
+Collaborated using Git-based workflows while improving authentication screens, navigation, validation messages, and accessibility.
+
+**Tech Stack:** Spring Boot · Spring Security · Spring Data JPA · PostgreSQL · Flyway · React · Vite
+
+##  Currently
+  
 * Improving my skills in **full-stack software development**
-* Building practical projects with modern web technologies
+* Building projects with modern web technologies
 * Learning more about **software architecture, backend development and cloud technologies**
 * Looking for opportunities as a **Full-stack Developer Intern / Software Engineer Intern**
 
