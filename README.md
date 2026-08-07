@@ -37,10 +37,9 @@ A full-stack CRM application developed as part of a 7-member Scrum team, focusin
 Key contributions:
 
 * Developed customer management features across the Spring Boot backend and React frontend, including customer search, profile updates, activation, routing, and API integration.
-Implemented user update workflows with input validation and corresponding frontend support.
-Extended the authorization system by introducing the STAFF role and updating database constraints and user permissions.
-Integrated an AI chatbot with backend services and the application interface.
-Collaborated using Git-based workflows while improving authentication screens, navigation, validation messages, and accessibility.
+* Implemented user update workflows with input validation and corresponding frontend support.
+* Extended the authorization system by introducing the STAFF role and updating database constraints and user permissions.
+* Collaborated using Git-based workflows while improving authentication screens, navigation, validation messages, and accessibility.
 
 **Tech Stack:** Spring Boot · Spring Security · Spring Data JPA · PostgreSQL · Flyway · React · Vite
 
