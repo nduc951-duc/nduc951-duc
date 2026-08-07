@@ -4,7 +4,7 @@ I'm a **Software Engineering student** and aspiring **Full-stack Developer** bas
 
 I enjoy building practical web applications and working across both frontend and backend development. My current focus is on developing scalable full-stack applications using **React, Spring Boot, Express.js, and PostgreSQL**.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Languages:** Java, JavaScript, SQL, Python
 * **Frontend:** React, Vite, React Router, HTML, CSS, Bootstrap
